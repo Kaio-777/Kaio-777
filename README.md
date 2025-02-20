@@ -18,6 +18,6 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-000000.svg?logo=vsc&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-000000?logo=windows11&logoColor=white)](#)
 
-**Estatísticas** 
+**Statistics** 
 
 [![Kaio-777](https://github-readme-stats.vercel.app/api?username=Kaio-777&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
