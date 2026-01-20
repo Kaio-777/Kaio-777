@@ -42,7 +42,7 @@
 
 ---
 
-<h3>📫 Connect with me</h3>
+<h3>Connect with me</h3>
 
 <a href="https://www.linkedin.com/in/kaioribeiro777/" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white"/>
