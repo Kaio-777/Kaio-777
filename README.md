@@ -40,8 +40,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/kaioribeiro777/" target="_blank" style="text-decoration:none;">
