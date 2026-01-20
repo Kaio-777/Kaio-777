@@ -28,11 +28,9 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=white)](#)
 
-**Statistics** 
+## Statistics
 
 [![Kaio-777](https://github-readme-stats.vercel.app/api?username=Kaio-777&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake-dark.svg">
