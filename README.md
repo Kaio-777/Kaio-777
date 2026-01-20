@@ -32,7 +32,7 @@
 
 [![Kaio-777](https://github-readme-stats.vercel.app/api?username=Kaio-777&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake-dark.svg">
@@ -42,7 +42,7 @@
 
 ---
 
-<h3>Connect with me</h3>
+## Connect with me
 
 <a href="https://www.linkedin.com/in/kaioribeiro777/" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white"/>
