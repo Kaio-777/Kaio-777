@@ -24,9 +24,9 @@
 
 <p><b>Databases & Tools</b></p>
 
-<img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white">
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?logo=microsoft-sql-server&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=white)](#)
 
 **Statistics** 
 
@@ -44,12 +44,12 @@
 
 <h3>📫 Connect with me</h3>
 
-<a href="https://www.linkedin.com/in/kaioribeiro777/" target="_blank">
+<a href="https://www.linkedin.com/in/kaioribeiro777/" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:kaioribeirodesousa321@gmail.com">
+<a href="mailto:kaioribeirodesousa321@gmail.com" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/kaioribeiiro_/" target="_blank">
+<a href="https://www.instagram.com/kaioribeiiro_/" target="_blank" style="text-decoration:none;">
   <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white"/>
 </a>
