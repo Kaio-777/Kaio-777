@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 Studying Software Engineering at Jala University.
 
-## My Skills <img align="right" width="250" height="250" src="https://media.tenor.com/3pLbtx2AvcMAAAAi/coffee-drinks.gif"> 
+## My Skills <img align="right" width="250" height="250" src="https://media.tenor.com/jrh63sgGLBwAAAAj/one-piece-pixel.gif"> 
 
 **Languages** 
 
