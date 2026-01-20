@@ -8,16 +8,48 @@
 
 **Languages** 
 
-[![Java](https://img.shields.io/badge/Java-%23000000.svg?logo=openjdk&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-000000.svg?logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-000000?logo=csharp&logoColor=white)](#)
 
-**Development tools**
+**IDEs**
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=black)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-000000.svg?logo=vsc&logoColor=white)](#)
+
+**Operating Systems**
+
+[![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-000000?logo=windows11&logoColor=white)](#)
+
+<p><b>Databases & Tools</b></p>
+
+<img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white">
 
 **Statistics** 
 
 [![Kaio-777](https://github-readme-stats.vercel.app/api?username=Kaio-777&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<h3>📫 Connect with me</h3>
+
+<a href="https://www.linkedin.com/in/kaioribeiro777/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:kaioribeirodesousa321@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/kaioribeiiro_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white"/>
+</a>
