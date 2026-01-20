@@ -6,27 +6,27 @@
 
 ## My Skills <img align="right" width="250" height="250" src="https://media.tenor.com/jrh63sgGLBwAAAAj/one-piece-pixel.gif"> 
 
-**Languages** 
+### Languages
 
+[![C#](https://img.shields.io/badge/C%23-000000?logo=csharp&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-000000.svg?logo=openjdk&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/C%23-000000?logo=csharp&logoColor=white)](#)
 
-**IDEs**
+### IDEs
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-000000.svg?logo=vsc&logoColor=white)](#)
 
-**Operating Systems**
+### Operating Systems
 
 [![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-000000?logo=windows11&logoColor=white)](#)
 
-<p><b>Databases & Tools</b></p>
+### Databases & Tools
 
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?logo=microsoft-sql-server&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white)](#)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-000000?logo=microsoft-sql-server&logoColor=white)](#)
 
 ## Statistics
 
